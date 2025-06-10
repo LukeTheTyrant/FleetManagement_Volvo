@@ -1,0 +1,19 @@
+﻿@model FleetManagement.DTOs.SearchVehicleDto
+
+<h1>Search Vehicle</h1>
+
+<form method="post">
+    <div class="mt-3">
+        <label class="form-label">Chassis Series</label>
+        <input type="text" class="form-control" asp-for="ChassisSeries" />
+    </div>
+
+    <div class="mt-3">
+        <label class="form-label">Chassis Number</label>
+        <input type="text" class="form-control" asp-for="ChassisNumber" />
+    </div>
+
+    <div class="mt-3">
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>

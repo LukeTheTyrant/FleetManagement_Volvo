@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F55130D-7888-40D1-9C28-3458DDA034B6}|FleetManagement.Tests\\FleetManagement.Tests.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement.tests\\vehicleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F55130D-7888-40D1-9C28-3458DDA034B6}|FleetManagement.Tests\\FleetManagement.Tests.csproj|solutionrelative:fleetmanagement.tests\\vehicleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|solutionrelative:fleetmanagement_2\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\dtos\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|solutionrelative:fleetmanagement_2\\dtos\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement_2.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement_2.csproj|solutionrelative:fleetmanagement_2\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\views\\vehicles\\editcolor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|solutionrelative:fleetmanagement_2\\views\\vehicles\\editcolor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|solutionrelative:fleetmanagement_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\views\\vehicles\\findbychassis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|solutionrelative:fleetmanagement_2\\views\\vehicles\\findbychassis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement_2.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\views\\vehicles\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement_2.csproj|solutionrelative:fleetmanagement_2\\views\\vehicles\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\views\\vehicles\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement.csproj|solutionrelative:fleetmanagement_2\\views\\vehicles\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement_2.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement_2.csproj|solutionrelative:fleetmanagement_2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement_2.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement_2.csproj|solutionrelative:fleetmanagement_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement_2.csproj|c:\\users\\lucas\\desktop\\fleetmanagement_2\\fleetmanagement_2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2C66154-4B81-46ED-9B47-F537F4B8FCB9}|FleetManagement_2\\FleetManagement_2.csproj|solutionrelative:fleetmanagement_2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-10T02:01:50.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "FleetManagement_2\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "FleetManagement_2\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:46:32.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement.Tests\\VehicleServiceTests.cs",
+              "RelativeDocumentMoniker": "FleetManagement.Tests\\VehicleServiceTests.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement.Tests\\VehicleServiceTests.cs",
+              "RelativeToolTip": "FleetManagement.Tests\\VehicleServiceTests.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:32:19.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FindByChassis.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Vehicles\\FindByChassis.cshtml",
+              "RelativeDocumentMoniker": "FleetManagement_2\\Views\\Vehicles\\FindByChassis.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Vehicles\\FindByChassis.cshtml",
+              "RelativeToolTip": "FleetManagement_2\\Views\\Vehicles\\FindByChassis.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T01:19:53.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\DTOs\\CreateVehicleDto.cs",
+              "RelativeDocumentMoniker": "FleetManagement_2\\DTOs\\CreateVehicleDto.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\DTOs\\CreateVehicleDto.cs",
+              "RelativeToolTip": "FleetManagement_2\\DTOs\\CreateVehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:41:31.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditColor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Vehicles\\EditColor.cshtml",
+              "RelativeDocumentMoniker": "FleetManagement_2\\Views\\Vehicles\\EditColor.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Vehicles\\EditColor.cshtml",
+              "RelativeToolTip": "FleetManagement_2\\Views\\Vehicles\\EditColor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T00:37:31.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FleetManagement_2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FleetManagement_2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T00:27:55.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Vehicles\\ListAll.cshtml",
+              "RelativeDocumentMoniker": "FleetManagement_2\\Views\\Vehicles\\ListAll.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Vehicles\\ListAll.cshtml",
+              "RelativeToolTip": "FleetManagement_2\\Views\\Vehicles\\ListAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T00:18:36.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Vehicles\\Insert.cshtml",
+              "RelativeDocumentMoniker": "FleetManagement_2\\Views\\Vehicles\\Insert.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Vehicles\\Insert.cshtml",
+              "RelativeToolTip": "FleetManagement_2\\Views\\Vehicles\\Insert.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:53:58.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "FleetManagement_2\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "FleetManagement_2\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:52:36.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FleetManagement_2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FleetManagement_2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:31:38.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Program.cs",
+              "RelativeDocumentMoniker": "FleetManagement_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Program.cs",
+              "RelativeToolTip": "FleetManagement_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:29:08.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FleetManagement_2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\FleetManagement_2\\FleetManagement_2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FleetManagement_2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:28:53.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

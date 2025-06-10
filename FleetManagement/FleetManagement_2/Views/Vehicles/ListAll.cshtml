@@ -1,0 +1,34 @@
+﻿@model IEnumerable<FleetManagement.DTOs.VehicleDto>
+
+<h1>Vehicles</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Chassis Id</th>            
+            <th>Type</th>
+            <th>Number of Passengers</th>
+            <th>Color</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var vehicle in Model)
+        {
+            <tr>
+                <td>@vehicle.ChassisSeries-@vehicle.ChassisNumber</td>
+                <td>@vehicle.Type</td>
+                <td>@vehicle.PassengersNumber</td>
+                <td>@vehicle.Color</td>
+                <td>
+                    <a class="btn btn-primary" 
+                    asp-controller="Vehicles" 
+                    asp-action="EditColor" 
+                    asp-route-chassisSeries="@vehicle.ChassisSeries"
+                    asp-route-chassisNumber="@vehicle.ChassisNumber">
+                    Edit
+                </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
